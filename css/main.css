@@ -34,3 +34,18 @@ p{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 30px;
 }
+
+/*Footer*/
+footer ul{
+	margin-top: 2%;
+	margin-left: 40%;
+
+}
+
+
+footer ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 1%;
+	text-decoration: none;
+}
