@@ -1,3 +1,14 @@
+/*Nav Bar*/
+
+.navigation{
+	margin-top: .5%;
+
+}
+
+
+
+
+
 /* Header */
 
 h1{
@@ -8,11 +19,12 @@ h1{
 }
 
 header img{
-	height: 225px;
-	margin-left: 38%;
-
-
+    height: 278px;
+    margin-left: 36%;
 }
+
+
+
 
 
 header p{
