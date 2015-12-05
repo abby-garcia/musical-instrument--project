@@ -1,0 +1,37 @@
+/*Header*/
+header h1{
+	text-align: center;
+}
+
+header img{
+	height: 350px;
+    margin-left: 40%;
+
+}
+
+header p{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/*Footer*/
+footer ul{
+	margin-top: 2%;
+	margin-left: 40%;
+
+}
+
+
+footer ul li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 1%;
+	text-decoration: none;
+}
