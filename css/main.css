@@ -50,6 +50,10 @@ p{
 	font-size: 30px;
 }
 
+.col-md-3 button{
+	margin-left: -23%;
+}
+
 /*Footer*/
 footer ul{
 	margin-top: 2%;
